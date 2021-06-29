@@ -1,0 +1,89 @@
+{
+    "images": [
+        {
+            "id": "0",
+            "name": "apple",
+            "image": "https://github.com/jazminmatos/images-db/blob/main/images/apple.png?raw=true"               
+        },
+        {
+            "id": "1",
+            "name": "balloons",
+            "image": ""
+        },
+        {
+            "id": "2",
+            "name": "bird",
+            "image": ""               
+        },
+        {
+            "id": "3",
+            "name": "bomb",
+            "image": ""               
+        },
+        {
+            "id": "4",
+            "name": "coin",
+            "image": ""               
+        },
+        {
+            "id": "5",
+            "name": "hourglass",
+            "image": ""               
+        },
+        {
+            "id": "6",
+            "name": "ice-cream",
+            "image": ""               
+        },
+        {
+            "id": "7",
+            "name": "plane",
+            "image": ""               
+        },
+        {
+            "id": "8",
+            "name": "poke",
+            "image": ""               
+        },
+        {
+            "id": "9",
+            "name": "potion",
+            "image": ""               
+        },
+        {
+            "id": "10",
+            "name": "ramen",
+            "image": ""               
+        },
+        {
+            "id": "11",
+            "name": "rocket",
+            "image": ""               
+        },
+        {
+            "id": "12",
+            "name": "skeleton",
+            "image": ""               
+        },
+        {
+            "id": "13",
+            "name": "sword",
+            "image": ""               
+        },
+        {
+            "id": "14",
+            "name": "tree",
+            "image": ""               
+        },
+        {
+            "id": "15",
+            "name": "warrior",
+            "image": ""               
+        },
+        {
+            "id": "16",
+            "name": "wizard",
+            "image": ""               
+        }
+    ]
+}
